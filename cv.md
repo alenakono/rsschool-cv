@@ -14,3 +14,18 @@ My goal is to become a frontend developer in 2022 and get my first job as a deve
 
 My strongest qualities are a love of learning. Ability to overcome challenges and understand complex topics. I am motivated to see the result of my work. 
 ***
+#### Skills
+* HTML5, CSS3
+* SCSS
+* BEM 
+* Figma, Adobe Photoshop
+***
+#### Code example
+``` 
+function multiply(a, b){
+  return a * b;
+}
+let result = multiply(2,5);
+console.log(result);
+```
+***
